@@ -1,10 +1,10 @@
 {
     "name": "act (via asdf)",
     "id": "act-asdf",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Act is an open source project that allows you to run your github flow locally.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/act-asdf",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

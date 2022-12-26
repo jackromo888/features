@@ -1,10 +1,10 @@
 {
     "name": "chezscheme (via asdf)",
     "id": "chezscheme-asdf",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Chez Scheme is both a programming language and an implementation of that language, with supporting tools and documentation.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/chezscheme-asdf",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

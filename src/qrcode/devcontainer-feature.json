@@ -1,10 +1,10 @@
 {
     "name": "qrcode (via pipx)",
     "id": "qrcode",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "qrcode is a command line QR-Code generator.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/qrcode",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

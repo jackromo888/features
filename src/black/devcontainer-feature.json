@@ -1,10 +1,10 @@
 {
     "name": "Black (via pipx)",
     "id": "black",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Black is an uncompromising Python code formatter.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/black",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

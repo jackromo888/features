@@ -1,10 +1,10 @@
 {
     "name": "peco (via asdf)",
     "id": "peco-asdf",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "peco is simplistic interactive filtering tool.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/peco-asdf",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

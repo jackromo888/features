@@ -1,10 +1,10 @@
 {
     "name": "Less (via npm)",
     "id": "less",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Less is a backwards-compatible language extension for CSS",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/less",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

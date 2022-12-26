@@ -1,10 +1,10 @@
 {
     "name": "dprint (via asdf)",
     "id": "dprint-asdf",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "dprint is a pluggable and configurable code formatting platform written in Rust.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/dprint-asdf",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

@@ -1,10 +1,10 @@
 {
     "name": "isort (via pipx)",
     "id": "isort",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "isort is a Python utility / library to sort imports alphabetically, and automatically separated into sections and by type.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/isort",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

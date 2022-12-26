@@ -1,10 +1,10 @@
 {
     "name": "boundary (via asdf)",
     "id": "boundary-asdf",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "Installs boundary",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/boundary-asdf",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/python:latest",
         "ghcr.io/devcontainers/features/node:latest"
     ],

@@ -1,10 +1,10 @@
 {
     "name": "npm package",
     "id": "npm-package",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Installs an npm package.",
     "documentationURL": "http://github.com/devcontainers-contrib/features/tree/main/src/npm-package",
-    "installAfter": [
+    "installsAfter": [
         "ghcr.io/devcontainers/features/node:latest"
     ],
     "options": {
