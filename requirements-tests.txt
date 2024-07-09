@@ -3,3 +3,4 @@ pytest
 pytest-shell-utilities
 tqdm
 more_itertools
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
